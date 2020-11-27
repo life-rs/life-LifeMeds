@@ -1,0 +1,10 @@
+{
+    "name": "LifeMeds",
+    "author": "life",
+    "version": "1.0.0",
+    "forceDowngrade": false,
+    "downloadUpdateUrl": "https://github.com/life-rs/life-LifeMeds/archive/1.0.0.zip",
+    "excludeFromUpdate": [
+        "README.md"
+    ]
+}

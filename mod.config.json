@@ -1,0 +1,29 @@
+{
+  "name": "LifeMeds",
+  "author": "life",
+  "description": "collection of my mods",
+  "license": "MIT",
+  "version": "1.0.0",
+  "autoupdate": true,
+  "checkUpdateUrl": "https://raw.githubusercontent.com/life-rs/life-LifeMeds/main/updater.json",
+  "src":{
+    "src/modloader.js": "CacheModLoad",
+    "src/categories.js": "CacheModLoad"
+  },
+  "folders": [
+	"files/assort/ragfair",
+	"files/items",
+  "files/locales/en",
+  "files/templates"
+  ],
+  "filenames": [
+    "LifeMed"
+  ],
+  "categ": [
+    "test/handbook",
+    "test/templates"
+  ],
+  "things": [
+    "LifeMeds"
+  ]
+}
